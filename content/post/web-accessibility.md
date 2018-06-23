@@ -5,6 +5,8 @@ tags: ["accessibility", "tesseract.js", "Mozilla", "screen readers"]
 draft: false
 ---
 
+![keyboard with blue accessibility return key](https://www.gavinadvertising.com/orangejuice/wp-content/uploads/2018/01/accessibility-hero.jpg)
+
 ## Web Accessibility
 
 Whenever I start describing the concept of web accessibility to people not very familiar with the topic, I give them a metaphor. Web accessibility is the practice of making online content accessible to people with a disability or disabilities that prevent them from accessing, viewing, listening, interacting with that content. The disability could be and very often is visual —anyone visually impaired or completely blind, or as I realized much later through my son’s friend’s mom, anyone that is color blind, like her little boy; people that suffer from [photosensitive epilepsy] (https://en.wikipedia.org/wiki/Photosensitive_epilepsy) can have seizures triggered by visual stimuli; auditory —anyone that is partially or completely deaf; physical —anyone that does not have the motor skills/abilities to use a mouse and/or keyboard (arthritis comes to mind) or just does not have use of their limbs [—ALS/Lou Gehrig’s disease] (https://en.wikipedia.org/wiki/Amyotrophic_lateral_sclerosis), muscular dystrophy or amputation.
