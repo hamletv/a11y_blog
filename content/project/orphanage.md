@@ -1,8 +1,8 @@
 ---
-title: "Orphanage"
-description: "Scans DOM elements, assigns aria-role attr to elements to improve a11y."
-repo: [Orphanage]("https://github.com/hamletv/OriginalOrph")
-tags: ["WCAG", "aria role", "DOM"]
+title: "Project 1"
+description: "Lorem ipsum dolor sit amet"
+repo: "#" # delete this line if you want blog-like posts for projects
+tags: ["go", "golang", "hugo"]
 weight: 1
 draft: false
 ---
