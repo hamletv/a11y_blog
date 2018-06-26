@@ -5,8 +5,7 @@ tags: ["accessibility", "tesseract.js", "ocr", "screen readers", "aria-described
 draft: false
 ---
 
-![Visually impaired person using a screen reader installed on laptop computer](https://www.aclu.org/files/022415-ACLU-VoterReg-web-resources/image/92856921-Credit_ScottOlsen_Thinkstock.jpg)
-
+![Visually impaired person using a screen reader](https://equalentry.com/wp-content/uploads/2017/10/JAWS-User.jpg)
 ## Origins of Image A11y
 Simply put, the object of the Image A11y project is to improve web accessibility by making the content (specifically text) within images accessible to [screen readers](https://en.wikipedia.org/wiki/Screen_reader). The idea of Image A11y came about during the December 2016 [Mozilla All Hands](https://wiki.mozilla.org/All_Hands/Austin) conference in Austin, TX. While giving a demo of an accessibility project I had worked on to the Mozilla accessibility team I was introduced to [Project Naptha](http://projectnaptha.com/). Project Naptha is a Chrome only extension that OCR (object character recognition) scans images and has the added functionality of allowing for editing the text, translate or completely [delete without overly distorting](https://en.wikipedia.org/wiki/Inpainting) the remaining image. It is a very cool extension, in my opinion. It does not however, make that content it scans available to screen readers, it is not an accessibility tool...and that's ok. The idea of porting this extension into Firefox was considered but creating a new extension inspired by Project Naptha was ultimately decided with the use of Tesseract.js
 
