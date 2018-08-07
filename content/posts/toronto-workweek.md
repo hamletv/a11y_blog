@@ -1,7 +1,7 @@
 ---
 title: "Toronto Workweek"
 date: 2018-08-06
-draft: true
+draft: false
 ---
 
 ![Toronto's City Hall, Nathan Phillips square](https://www.macleans.ca/wp-content/uploads/2016/07/MAC31_TORONTO-ARCHITECTURE_POST01.jpg) _Awesome (work)week in Toronto without the lights, sights, Blue Jays, CN Tower or Timmies._
