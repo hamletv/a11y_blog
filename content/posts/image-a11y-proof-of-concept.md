@@ -1,5 +1,5 @@
 ---
-title: "Image A11y: proof of concept"
+title: "Bubo Eye: proof of concept"
 date: 2018-06-25
 tags: ["accessibility", "tesseract.js", "ocr", "screen readers", "aria-describedby"]
 draft: false

@@ -1,6 +1,7 @@
 ---
 title: "Toronto Workweek"
 date: 2018-08-06
+tags: ["toronto", "context menu", "background script", "content script"]
 draft: false
 ---
 
@@ -33,16 +34,16 @@ A lot has been accomplished but there's still plenty of work to do. There are mu
 ## How It All Works
 
 ![Screenshot of image with text, right click drop down menu](https://raw.githubusercontent.com/hamletv/Images/master/Image%20A11y/Screen%20Shot%202018-08-01%20at%2010.54.34%20PM.png)
-_Once the extension is installed, right click on the image you want to scan. The Image A11y icon and "Discover Image Text" option will show at the bottom of the context menu._
+_Once the extension is installed, right click on the image you want to scan. The Bubo Eye icon and "Discover Image Text" option will show at the bottom of the context menu._
 ***
 
 ![Screenshot of image with text, inspector open showing image attributes](https://raw.githubusercontent.com/hamletv/Images/master/Image%20A11y/Screen%20Shot%202018-08-01%20at%2010.58.20%20PM.png)
 _Prior to scanning and clicking "Discover Image Text" you can see the img alt attribute is empty. The attribute will be reassigned and scanned text will be injected there._
 ***
 
-![Screenshot of image with text, inspector open, clicking on Image A11y icon](https://raw.githubusercontent.com/hamletv/Images/master/Image%20A11y/Screen%20Shot%202018-08-01%20at%2010.58.56%20PM.png)
+![Screenshot of image with text, inspector open, clicking on Bubo Eye icon](https://raw.githubusercontent.com/hamletv/Images/master/Image%20A11y/Screen%20Shot%202018-08-01%20at%2010.58.56%20PM.png)
 _With inspector still open (which is not needed during regular use), alt attribute still empty, right click and "Discover Image Text"._
 ***
 
-![Screenshot of image with text, inspector open, Image A11y clicked](https://raw.githubusercontent.com/hamletv/Images/master/Image%20A11y/Screen%20Shot%202018-08-01%20at%2011.00.36%20PM.png)
+![Screenshot of image with text, inspector open, Bubo Eye clicked](https://raw.githubusercontent.com/hamletv/Images/master/Image%20A11y/Screen%20Shot%202018-08-01%20at%2011.00.36%20PM.png)
 _Image has been scanned and the alt attribute now has text from image. Alt attribute text always starts with "Possible text:" due to the potential inaccuracies mentioned above._
