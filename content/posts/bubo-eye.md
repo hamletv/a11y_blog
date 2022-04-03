@@ -4,7 +4,7 @@ date: 2018-08-13
 tags:
 draft: false
 ---
-![Bengalese eagle owl](https://en.wikipedia.org/wiki/Horned_owl#/media/File:Bengalese_Eagle_Owl.jpg) _We hope that Bubo Eye, called after the Bengalese eagle owl (Bubo bengalensis) and their great vision will help screen reader users to have enhanced accessibility with image content._
+![Bengalese eagle owl](https://github.com/hamletv/Images/blob/master/Image%20A11y/319px-Bengalese_Eagle_Owl.jpg) _We hope that Bubo Eye, called after the Bengalese eagle owl (Bubo bengalensis) and their great vision will help screen reader users to have enhanced accessibility with image content._
 
 # Bubo Eye
 
