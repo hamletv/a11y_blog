@@ -42,16 +42,16 @@ googleAnalytics = ""
   weight = 2
 
 [[menu.icon]]
-  url = "https://twitter.com/hamlet_villa/"
-  name = "twitter"
+  url = "https://www.linkedin.com/in/hamlet-villa-1552186/"
+  name = "linkedin"
   weight = 3
 
 [[menu.icon]]
-  url = "https://www.linkedin.com/in/hamlet-villa-1552186/"
-  name = "linkedin"
+  url = "https://angel.co/u/hamlet-villa"
+  name = "angellist"
   weight = 4
 
 [[menu.icon]]
-  url = "https://www.stackoverflow.com/6257511/hamlet/"
-  name = "stack-overflow"
+  url = "#"
+  name = "fa fa-file-lines"
   weight = 5
